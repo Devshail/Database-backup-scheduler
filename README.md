@@ -1,3 +1,3 @@
 # Database-backup-scheduler
 
-For automated database sceduling 
+For automated database backup sceduling 
