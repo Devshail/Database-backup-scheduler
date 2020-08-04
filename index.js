@@ -21,7 +21,7 @@ const dbOptions = [
 		autoBackup: false,
 		removeOldBackup: false,
 		keepLastDaysBackup: 2,
-		bPath: 'BAPIDB'//bucket dir
+		bPath: 'bucket dir'//bucket dir
 	},
 ];
 
